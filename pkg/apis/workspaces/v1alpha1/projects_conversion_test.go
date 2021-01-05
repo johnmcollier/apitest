@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	fuzz "github.com/google/gofuzz"
-	"github.com/johnmcollier/apitest/pkg/apis/workspaces/v1alpha2"
+	"github.com/johnmcollier/apitest/v2/pkg/apis/workspaces/v1alpha2"
 	"github.com/stretchr/testify/assert"
 )
 

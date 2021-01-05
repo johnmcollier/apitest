@@ -1,7 +1,7 @@
 package v1alpha2
 
 import (
-	"github.com/johnmcollier/apitest/pkg/devfile"
+	"github.com/johnmcollier/apitest/v2/pkg/devfile"
 )
 
 // Devfile describes the structure of a cloud-native workspace and development environment.

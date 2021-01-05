@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"strings"
 
-	workspaces "github.com/johnmcollier/apitest/pkg/apis/workspaces/v1alpha2"
-	unions "github.com/johnmcollier/apitest/pkg/utils/unions"
+	workspaces "github.com/johnmcollier/apitest/v2/pkg/apis/workspaces/v1alpha2"
+	unions "github.com/johnmcollier/apitest/v2/pkg/utils/unions"
 	"k8s.io/apimachinery/pkg/util/json"
 	"k8s.io/apimachinery/pkg/util/sets"
 	strategicpatch "k8s.io/apimachinery/pkg/util/strategicpatch"

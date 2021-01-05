@@ -3,7 +3,7 @@ package v1alpha1
 import (
 	"encoding/json"
 
-	"github.com/johnmcollier/apitest/pkg/apis/workspaces/v1alpha2"
+	"github.com/johnmcollier/apitest/v2/pkg/apis/workspaces/v1alpha2"
 )
 
 func convertComponentTo_v1alpha2(src *Component, dest *v1alpha2.Component) error {

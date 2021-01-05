@@ -2,9 +2,10 @@ package v1alpha1
 
 import (
 	"encoding/json"
-	"github.com/johnmcollier/apitest/pkg/attributes"
 
-	"github.com/johnmcollier/apitest/pkg/apis/workspaces/v1alpha2"
+	"github.com/johnmcollier/apitest/v2/pkg/attributes"
+
+	"github.com/johnmcollier/apitest/v2/pkg/apis/workspaces/v1alpha2"
 )
 
 func convertCommandTo_v1alpha2(src *Command, dest *v1alpha2.Command) error {

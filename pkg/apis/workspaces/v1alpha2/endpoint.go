@@ -1,7 +1,7 @@
 package v1alpha2
 
 import (
-	attributes "github.com/johnmcollier/apitest/pkg/attributes"
+	attributes "github.com/johnmcollier/apitest/v2/pkg/attributes"
 )
 
 // EndpointProtocol defines the application and transport protocols of the traffic that will go through this endpoint.

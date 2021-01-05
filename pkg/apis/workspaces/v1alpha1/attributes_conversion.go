@@ -2,7 +2,8 @@ package v1alpha1
 
 import (
 	"fmt"
-	"github.com/johnmcollier/apitest/pkg/attributes"
+
+	"github.com/johnmcollier/apitest/v2/pkg/attributes"
 )
 
 func convertAttributesTo_v1alpha2(src map[string]string, dest *attributes.Attributes) {

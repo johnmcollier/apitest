@@ -1,7 +1,7 @@
 package v1alpha1
 
 import (
-	"github.com/johnmcollier/apitest/pkg/apis/workspaces/v1alpha2"
+	"github.com/johnmcollier/apitest/v2/pkg/apis/workspaces/v1alpha2"
 	"sigs.k8s.io/controller-runtime/pkg/conversion"
 )
 

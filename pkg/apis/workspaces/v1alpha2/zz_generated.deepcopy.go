@@ -5,7 +5,7 @@
 package v1alpha2
 
 import (
-	"github.com/johnmcollier/apitest/pkg/attributes"
+	"github.com/johnmcollier/apitest/v2/pkg/attributes"
 	"k8s.io/api/core/v1"
 	"k8s.io/apimachinery/pkg/runtime"
 )

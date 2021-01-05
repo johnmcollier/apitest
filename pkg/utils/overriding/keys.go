@@ -2,7 +2,7 @@ package overriding
 
 import (
 	"github.com/hashicorp/go-multierror"
-	workspaces "github.com/johnmcollier/apitest/pkg/apis/workspaces/v1alpha2"
+	workspaces "github.com/johnmcollier/apitest/v2/pkg/apis/workspaces/v1alpha2"
 	"k8s.io/apimachinery/pkg/util/sets"
 )
 
