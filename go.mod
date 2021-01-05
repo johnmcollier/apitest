@@ -1,4 +1,4 @@
-module github.com/devfile/api
+module github.com/johnmcollier/apitest
 
 go 1.13
 
